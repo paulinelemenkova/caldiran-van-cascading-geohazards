@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+rasterio
+pyproj
+obspy
+pyshp
+okada_wrapper

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Cascading geohazards of the Çaldıran–Van fault–lake system (Eastern Anatolia): figure-reproduction code"
+abstract: "Reproducible geospatial figure-generation code for a study of crustal deformation and earthquake-triggered cascading geohazards across the Çaldıran, Erçiş and Van fault systems of Eastern Anatolia, and their long-term expression in the late Quaternary archive of Lake Van."
+type: software
+authors:
+  - given-names: Polina
+    family-names: Lemenkova
+    affiliation: "Institute of Earthquake Engineering and Disaster Management, Istanbul Technical University"
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+  - given-names: "Abdullah Can"
+    family-names: Zülfikar
+    affiliation: "Institute of Earthquake Engineering and Disaster Management, Istanbul Technical University"
+    orcid: "https://orcid.org/0000-0001-6610-3334"
+license: MIT
+keywords:
+  - cascading geohazards
+  - crustal deformation
+  - neotectonics
+  - seismic hazard assessment
+  - earthquake-triggered landslides
+  - liquefaction
+  - stress-triggered seismicity
+  - Lake Van
+  - Eastern Anatolia
+  - reproducible research
+version: "1.0.0"
+date-released: "2026-09-21"
