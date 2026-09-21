@@ -13,6 +13,12 @@ authors:
     affiliation: "Institute of Earthquake Engineering and Disaster Management, Istanbul Technical University"
     orcid: "https://orcid.org/0000-0001-6610-3334"
 license: MIT
+doi: "10.5281/zenodo.22873969"
+repository-code: "https://github.com/paulinelemenkova/caldiran-van-cascading-geohazards"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22873969"
+    description: "Archived snapshot on Zenodo"
 keywords:
   - cascading geohazards
   - crustal deformation
@@ -24,5 +30,5 @@ keywords:
   - Lake Van
   - Eastern Anatolia
   - reproducible research
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-09-21"

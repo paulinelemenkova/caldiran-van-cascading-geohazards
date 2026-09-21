@@ -1,5 +1,7 @@
 # Cascading geohazards of the Çaldıran–Van fault–lake system (Eastern Anatolia)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22873969.svg)](https://doi.org/10.5281/zenodo.22873969)
+
 Reproducible figure-generation code for a study of crustal deformation and
 earthquake-triggered **cascading geohazards** across the Çaldıran, Erçiş and
 Van fault systems of Eastern Anatolia, and their long-term expression in the
@@ -75,6 +77,8 @@ from version control (see `.gitignore`).
 Code released under the MIT License (see `LICENSE`).
 
 ## Citation
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.22873969
 
 If you use this code, please cite it using the metadata in `CITATION.cff`
 (GitHub renders a "Cite this repository" button from it).
