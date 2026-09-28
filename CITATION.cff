@@ -8,10 +8,6 @@ authors:
     family-names: Lemenkova
     affiliation: "Institute of Earthquake Engineering and Disaster Management, Istanbul Technical University"
     orcid: "https://orcid.org/0000-0002-5759-1089"
-  - given-names: "Abdullah Can"
-    family-names: Zülfikar
-    affiliation: "Institute of Earthquake Engineering and Disaster Management, Istanbul Technical University"
-    orcid: "https://orcid.org/0000-0001-6610-3334"
 license: MIT
 doi: "10.5281/zenodo.22873969"
 repository-code: "https://github.com/paulinelemenkova/caldiran-van-cascading-geohazards"

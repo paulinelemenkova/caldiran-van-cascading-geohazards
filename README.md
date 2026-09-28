@@ -9,7 +9,7 @@ late Quaternary archive of Lake Van. The analysis combines open-access
 geological, seismic-catalogue, remote-sensing, space-geodetic and lacustrine
 data with reproducible terrain and geospatial mapping.
 
-**Authors:** Polina Lemenkova, Abdullah Can Zülfikar
+**Authors:** Polina Lemenkova
 (Institute of Earthquake Engineering and Disaster Management,
 Istanbul Technical University).
 
